@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "context": "France is a country in Europe. Its capital is Paris.",
+    "prediction": "Paris"
+  },
+  {
+    "question": "Who wrote Hamlet?",
+    "context": "Hamlet is a famous play by William Shakespeare.",
+    "prediction": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "context": "Jupiter is the largest planet in our solar system.",
+    "prediction": "Mars"
+  }
+]

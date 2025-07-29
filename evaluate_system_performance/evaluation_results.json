@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "context": "France is a country in Europe. Its capital is Paris.",
+    "answer_a": "Paris",
+    "answer_b": "The capital of France is Paris.",
+    "evaluation": {
+      "win model": "Answer A",
+      "reason": "Answer A is more fluent as it is a single word answer, making it easier to read and understand.",
+      "EM": 1,
+      "F1": 1
+    }
+  },
+  {
+    "question": "Who wrote Hamlet?",
+    "context": "Hamlet is a famous play by William Shakespeare.",
+    "answer_a": "William Shakespeare",
+    "answer_b": "Shakespeare",
+    "evaluation": {
+      "win model": "Answer A",
+      "reason": "Answer A is the exact name of the author mentioned in the context, making it the most relevant and accurate answer.",
+      "EM": 1,
+      "F1": 1
+    }
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "context": "Jupiter is the largest planet in our solar system.",
+    "answer_a": "Mars",
+    "answer_b": "Jupiter",
+    "evaluation": {
+      "win model": "B",
+      "reason": "Answer B is the correct answer according to the context and the question.",
+      "EM": 1,
+      "F1": 1
+    }
+  }
+]

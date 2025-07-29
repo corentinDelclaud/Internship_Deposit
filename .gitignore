@@ -1,0 +1,5 @@
+*.pyc
+/dataset/
+/output/
+# .gitignore
+.env

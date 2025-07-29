@@ -1,0 +1,5 @@
+2025-05-23 11:32:18 | predictions=C:\Users\coren\Desktop\cours\LLM\Internship 4rd\KPIs\4(Evaluation-KPIs)\example\graphrag_answers.json | references=C:\Users\coren\Desktop\cours\LLM\Internship 4rd\KPIs\4(Evaluation-KPIs)\example\predictions_from_docs.json | max_eval=1
+2025-05-23 11:34:34 | predictions=C:\Users\coren\Desktop\cours\LLM\Internship 4rd\KPIs\4(Evaluation-KPIs)\example\graphrag_answers.json | references=C:\Users\coren\Desktop\cours\LLM\Internship 4rd\KPIs\4(Evaluation-KPIs)\example\predictions_from_docs.json | max_eval=1
+2025-05-23 11:35:25 | predictions=C:\Users\coren\Desktop\cours\LLM\Internship 4rd\KPIs\4(Evaluation-KPIs)\example\graphrag_answers.json | references=C:\Users\coren\Desktop\cours\LLM\Internship 4rd\KPIs\4(Evaluation-KPIs)\example\references_from_docs.json | max_eval=1
+2025-05-23 11:35:25 | Using default tokenizer.
+2025-05-23 11:35:28 | Automatic Metrics: {'EM': 0.0, 'F1': 0.08888888888888889, 'BLEU': 0.007396859666648378, 'ROUGE-ROUGE1': 0.08583690987124463, 'ROUGE-ROUGE2': 0.025974025974025976, 'ROUGE-ROUGEL': 0.060085836909871244, 'BERTScore': 0.0034399963915348053}
