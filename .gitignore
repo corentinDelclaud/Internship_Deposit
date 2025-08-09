@@ -3,3 +3,4 @@
 /output/
 # .gitignore
 .env
+/GH-retriever/model_name_graph_llm_llm_model_name_7b_llm_frozen_True_max_txt_len_512_max_new_tokens_32_gnn_model_name_gt2_patience_2_num_epochs_10_seed0.csv
